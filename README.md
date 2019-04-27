@@ -1,2 +1,2 @@
 # bug-free-meme
-My side projects to practise Front end web dev
+Hey! This is for testing my project codes!
